@@ -1,2 +1,2 @@
-# google-search-HCI
+# HumanComputerInteraction
 Created with CodeSandbox
